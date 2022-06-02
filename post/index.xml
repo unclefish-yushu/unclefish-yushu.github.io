@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unclefish’s Blog on Unclefish</title>
-    <link>/</link>
-    <description>Recent content in Unclefish’s Blog on Unclefish</description>
+    <title>Articles on Unclefish</title>
+    <link>/post/</link>
+    <description>Recent content in Articles on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Thu, 14 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「Too big to fall」- UST脱锚(1)</title>
       <link>/post/ust%E8%84%B1%E9%94%9A/</link>
@@ -93,16 +93,6 @@ to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to wor
     
     <item>
       <title>Chapter I: The Grand Hall</title>
-      <link>/daily/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>/daily/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
       <link>/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
@@ -110,36 +100,6 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
       <description>Three hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>/tool/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>/tool/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>“没有经历过牛熊的人，都不值得谈投资”   hello，大家好，我是鱼叔，这个网站是我内容的汇聚地，加密世界目前依旧没有完全被认可，很多文章都存在被平台封杀的可能性，所以我希望在一个web2中有一片自己的内容领地。这个网站主要有三个栏目：
- 鱼叔的投资博客（主要是项目研究内容） 每日热点短评（自己会对每日市场行情做一个短评） 相关工具链接（包括一些好用的工具和我的使用心得）  希望你能在这里找到自己想要的东西，enjoy！</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>

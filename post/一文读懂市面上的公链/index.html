@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="ch-ZN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>一文读懂市面上的公链 | Unclefish</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="hello，大家好，我是鱼叔，今天想和大家聊一个比较有意思的话题：公链。这个话题我一直想做个总结，但是总被各种事情耽搁了，趁着22年年初，通过对各大公链的探索来窥探下一个市场爆点可能在哪里。本文结构会分成两部分，先是对一些专业术语和概念做一个解释，然后再介绍比较知名的几条公链以及它们的由来和特点。">
+    <meta name="generator" content="Hugo 0.97.3" />
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="一文读懂市面上的公链" />
+<meta property="og:description" content="hello，大家好，我是鱼叔，今天想和大家聊一个比较有意思的话题：公链。这个话题我一直想做个总结，但是总被各种事情耽搁了，趁着22年年初，通过对各大公链的探索来窥探下一个市场爆点可能在哪里。本文结构会分成两部分，先是对一些专业术语和概念做一个解释，然后再介绍比较知名的几条公链以及它们的由来和特点。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E5%B8%82%E9%9D%A2%E4%B8%8A%E7%9A%84%E5%85%AC%E9%93%BE/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2022-04-14T11:25:05-04:00" />
+<meta property="article:modified_time" content="2022-04-14T11:25:05-04:00" /><meta property="og:site_name" content="Unclefish" />
+
+<meta itemprop="name" content="一文读懂市面上的公链">
+<meta itemprop="description" content="hello，大家好，我是鱼叔，今天想和大家聊一个比较有意思的话题：公链。这个话题我一直想做个总结，但是总被各种事情耽搁了，趁着22年年初，通过对各大公链的探索来窥探下一个市场爆点可能在哪里。本文结构会分成两部分，先是对一些专业术语和概念做一个解释，然后再介绍比较知名的几条公链以及它们的由来和特点。"><meta itemprop="datePublished" content="2022-04-14T11:25:05-04:00" />
+<meta itemprop="dateModified" content="2022-04-14T11:25:05-04:00" />
+<meta itemprop="wordCount" content="123">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="一文读懂市面上的公链"/>
+<meta name="twitter:description" content="hello，大家好，我是鱼叔，今天想和大家聊一个比较有意思的话题：公链。这个话题我一直想做个总结，但是总被各种事情耽搁了，趁着22年年初，通过对各大公链的探索来窥探下一个市场爆点可能在哪里。本文结构会分成两部分，先是对一些专业术语和概念做一个解释，然后再介绍比较知名的几条公链以及它们的由来和特点。"/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('images/7.jpg');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Unclefish
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/post/" title="Articles page">
+              Articles
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/daily/" title="Daily page">
+              Daily
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/tool/" title="Tool page">
+              Tool
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    <a href="https://twitter.com/GoHugoIO" target="_blank" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">一文读懂市面上的公链</h1>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        ARTICLES
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://twitter.com/share?url=/post/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E5%B8%82%E9%9D%A2%E4%B8%8A%E7%9A%84%E5%85%AC%E9%93%BE/&amp;text=%e4%b8%80%e6%96%87%e8%af%bb%e6%87%82%e5%b8%82%e9%9d%a2%e4%b8%8a%e7%9a%84%e5%85%ac%e9%93%be" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">一文读懂市面上的公链</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2022-04-14T11:25:05-04:00">April 14, 2022</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>hello，大家好，我是鱼叔，今天想和大家聊一个比较有意思的话题：公链。这个话题我一直想做个总结，但是总被各种事情耽搁了，趁着22年年初，通过对各大公链的探索来窥探下一个市场爆点可能在哪里。本文结构会分成两部分，先是对一些专业术语和概念做一个解释，然后再介绍比较知名的几条公链以及它们的由来和特点。</p>
+<h1 id="概念讲解">概念讲解</h1>
+<h2 id="smart-contract--智能合约">Smart Contract / 智能合约</h2>
+<p>这个概念其实是以太坊上最基础的概念，但是为了保证知识连贯性，我还是简单描述一下。</p>
+<p>“智能合约只是一个运行在以太坊链上的一个程序。它是位于以太坊区块链上一个特定地址的一系列代码（函数）和数据（状态）。”</p>
+<p>上面这段话我是摘自以太坊官网的说明，可以很明显的知道智能合约是一种程序，它是一种用户签名许可后就会强制执行的程序，比如说你转账给另一个人，在真实世界里，你也许可以叫银行中断你的转账服务，但在区块链世界里，当你许可了一笔转账交易的智能合约并且交了gas费之后，你就很难中断这笔交易，因为这个程序是强制执行的。</p>
+<h2 id="evm--以太坊虚拟机">EVM / 以太坊虚拟机</h2>
+<p>EVM这个词在区块链世界经常出现，它的意思是「以太坊虚拟机（Ethereum Virtual Machine）」。在解释EVM之前，我们首先要知道「虚拟机」是做什么的。</p>
+<p>其实对计算机有一定了解的朋友应该都用过虚拟机，比如说你在mac系统使用windows软件，这时候你会建一个windows的虚拟机，再在上面使用windows软件，因此简而言之虚拟机就是一台由「软件模拟形成的计算机」，并且这种虚拟机有一个特点就是「独立性」，虚拟机是单独规划出来的一片世界，里面的病毒或者软件运行都是不会影响你的本体计算机的。</p>
+<p>「以太坊虚拟机」就是虚拟机的一种，只是这种虚拟机是专门服务于以太坊的智能合约。通常每一个节点会下载以太坊客户端，然后客户端会在节点的电脑里形成一个虚拟机用于运行智能合约，这样的好处在于虚拟机不会受限于节点的系统，无论是MacOs还是linux亦或是Windows，都可以开辟一片空间来处理智能合约。此外，由于虚拟机的独立性特点，保证EVM上的计算可以不会被干扰，加强了合约计算的安全性。</p>
+<p>至此，我们就知道EVM以下几个特点：</p>
+<ol>
+<li>EVM是一种服务于以太坊的虚拟机</li>
+<li>EVM是智能合约的运行环境</li>
+</ol>
+<h2 id="sharding--切片技术">Sharding / 切片技术</h2>
+<p>切片技术（有的地方叫分片）是ETH2.0的一个特点，关于eth2.0的内容可以看我的另一篇文章。</p>
+<p>切片技术顾名思义就是将一个东西给切小，而在eth2.0的规划中就是要将交易数据给切成一个一个小数据，这样的目的是为了缓解现在拥堵的以太坊网络。那它是如何来缓解网络拥堵的呢？举个例子，一个交易的发布会通知全网，然后所有矿工一块儿计算来抢单，这就导致算力浪费以及网络的拥堵和不高效，而分片技术就是把这笔交易数据分成若干份，然后分别发送给不同的矿工去验证，这就保证大家不至于都挤在一块儿。再举个形象的例子，现在的以太坊就像大家排长队在超市唯一的收银台结账，给gas费高的可以插队排前面，而切片技术就是在超市里多安了几个收银台，大家就可以分流开来提高效率，同时也可以减少不必要的「gas费竞争」。</p>
+<h2 id="stable-coin--稳定币">Stable Coin / 稳定币</h2>
+<p>稳定币顾名思义就是价值稳定的币种，它是加密世界里最核心的金融基础之一，是价值的锚定之物。我习惯把稳定币分成两类：「算法稳定币」和「资产锚定稳定币」。</p>
+<p>算法稳定币：依托于算法来保证币种价格的稳定。这类赛道很难，目前较为成功的是MakerDao推出的DAI币，它是依托于他人的抵押资产生产的一种代币，用于和美元一比一挂钩。</p>
+<p>资产锚定稳定币：这类稳定币通常直接和现实资产挂钩，比如Tether发行的USDT，就是用现实世界里的美元来进行背书。</p>
+<h2 id="layer2--二层扩容">Layer2 / 二层扩容</h2>
+<p>21年很火的一个话题：layer2，当下以太坊网络拥堵问题的解决方案之一。其原理是将一些计算工作放到layer2里，然后把结果反馈给主网，这样就可以让主网上的计算变得简洁，比如说两笔交易A转给B一百美元，B转给C一百美元，实际结果是A的账上少了一百美元，C的账上多了一百美元，如果在以太坊主网上，这就是两笔交易，需要进行两次复杂运算，但是如果放到layer2里，就可以讲运算简化，最后主网只是看到一个状态变化，然后只需验证一下状态变化是否合法即可。</p>
+<p>目前比较知名的layer2方案有：ZkRollup、Optimistic Rollup.</p>
+<p>layer2的折中方案：Plasma 侧链技术</p>
+<h1 id="公链赛道">公链赛道</h1>
+<h2 id="ethereum--以太坊">Ethereum / 以太坊</h2>
+<p>公链之王，这个不需要太说了，唯一问题就是Gas费太高了，这也就给了其他公链成长的机会。</p>
+<h2 id="polygon--matic">Polygon / Matic</h2>
+<p>21年上半年非常火的一个公链，主打的就是做以太坊的侧链，所采用的技术就是Plasma。由于它最早推出plasma方案，分得了大量从以太坊过来的资金而迅速崛起，并且很多知名的defi项目比如Aave、Curve、SushiSwap等都在其链上部署。</p>
+<p>危机：</p>
+<ol>
+<li>Polygon上的自有生态发展一直平平无奇，目前锁仓量最高的依旧是外来项目Aave</li>
+<li>Plasma是一种有风险的方案，在未来其他layer2方案愈加成熟的时候会存在被淘汰的风险，因此polygon于21年12月份收购了Mir Protocol，一家研究ZK Proof的公司，意旨想要升级自己的侧链方案。</li>
+</ol>
+<h2 id="solana--sol">Solana / Sol</h2>
+<p>21年最火的链，我觉得应该算是Solana了，Solana 是由前高通员工Anatoly Yakovenko于17年创立的。它的特点就是高效率，高吞吐，简而言之它就是一条低gas费高性能的公链，号称「以太坊杀手」，当然它崛起的主要两个原因是「NFT」和「FTX」。</p>
+<p>21年是NFT的元年，大量NFT在Opensea上进行交易，但是以太坊上的高gas费让一部分NFT分流到了Solana上，促使了一波生态繁荣。</p>
+<p>第二个让Solana崛起的原因就是其背后有资本在支撑。Serum是Solana上最大的DEX，它是由FTX（目前第三大中心化交易所）的创始人推出的，因此可以把Solana理解为FTX在去中心化领域的尝试，类似于BSC之于Binance的地位。</p>
+<p>不过今年九月份Solana的宕机一定程度上让市场对其信心降低，这也给了一些其他小公链成长的机会。</p>
+<h2 id="avalanche--雪崩">Avalanche / 雪崩</h2>
+<p>Avalanche 雪崩链是21年下半年突然火起来的，原因是它从自己的投资基金里拿出2.2亿美元，用于激励开发者和项目方迁移到Avalanche链上，这让avax的价格一路飙升。相应的一些老牌项目也蜂拥而至，比如Aave和Curve，没错又是这两家，当然项目部署是有成本的，为什么大家愿意部署过来，原因在于Avalanche是「EVM兼容」的，也就是说支持以太坊的智能合约。</p>
+<p>Avalanche的架构由三条链组成，分别是</p>
+<ul>
+<li>交易所链（X-Chian）：用于创造新的代币和代币交易</li>
+<li>平台链（P-Chain）：用于节点验证，需要质押代币成为验证者</li>
+<li>合约链（C-Chain）：部署智能合约的链，因为支持EVM，所以方便很多以太坊Dapp的部署</li>
+</ul>
+<p>看到这里，其实大家就会意识到，一个公链如果支持EVM，那么自然会让很多优秀的项目过来部署，进而带来资金和流量。当然Avalanche的激励计划所带来的高APR流动性挖矿项目，也促进了用户和资本的流入。</p>
+<h2 id="fantom--饭桶">Fantom / 饭桶</h2>
+<p>相比于Avalanche， Fantom显得低调很多，作为一个主打技术的公链，它创新的使用了DAG智能合约以及LCA算法，具体是什么可以自行去研究，总之它构建了一个高速低费用的公链，并且也是EVM兼容的。</p>
+<p>Fantom的发展离不开一个人的推动，Andre Cronje，YFI的创始人。我们也常能看到AC在他的推特上给Fantom打广告，呼吁defi项目在其上的部署。在Fantom的生态里，我们能看到很多Defi项目的雏形，包括借贷、swap、流动性挖矿等，也就是说Fantom致力于打造一个高性能的defi公链。</p>
+<p>此外，Fantom也模仿Avalanche在21年下半年推出了2.6亿美元的激励制度，这也掀起了一波市场小高潮。</p>
+<h2 id="terra--新一代稳定币的发行商">Terra / 新一代稳定币的发行商</h2>
+<p>21年的黑马必然是Luna，一年一百倍的涨幅也是很少见了，谈起Luna必然得说说它背后的公链Terra。Terra是主打电子交易商务的公链，由韩国的Terraform Labs在Cosmos推出的公链（Fantom也是韩国公司创立的，感觉韩国在区块链创新上走的很远）。</p>
+<p>Terra主打稳定币UST，注意是UST而不是USDT，依靠引入LUNA代币来实现价格稳定。它的具体调节系统如下：</p>
+<p>当市面上的UST价格高于1美元的时候，比如UST为1.05美元，这时候LUNA的持有者可以以1美元的价格去换取1UST，然后在市场上以1.05美元的售价去卖出，实现5%的套利。随着市面上UST的增多，价格会恢复为1美元。</p>
+<p>当市面上的UST价格低于1美元的时候，比如UST为0.95美元，这时候UST的持有者可以用1 UST去换取1美元价值的LUNA，然后在市场上把LUNA卖掉，获得5%的套利，伴随着UST的减少，市面上UST会恢复为1美元。</p>
+<p>那什么是LUNA？</p>
+<p>LUNA是Terra公链上的基础代币，Terra上的节点运行、交易手续费以及投票治理等都需要LUNA。</p>
+<p>其实仔细研究LUNA的运行方式会发现，UST的发行和DAI的发行有点类似，都是会用另一种代币去托稳定币的币价，但是不同点在于DAI是依赖于抵押品产生的，而UST有点像凭空发布，或者说完全依赖于LUNA的币价。如果LUNA价格暴跌的话，那么UST的价格也会螺旋式下跌和美元脱钩，但是庆幸的是目前Terra的发展还是比较稳定的，大量的Luna应该还是稳定质押在节点里。此外，UST是受韩国政府许可的稳定币，已经在韩国当地有相应的实际使用渠道，这是它作为稳定币很强大的一个竞争优势。</p>
+<h2 id="celo--terra的挑战者">Celo / Terra的挑战者</h2>
+<p>在Terra迅速发展的同时，另一个项目也和Terra类似主打公链加稳定币 —— Celo。Celo推出的稳定币叫做cUSD，和美元挂钩。不过和Terra不同的是，Celo采用的是比较传统的发行方式：超额抵押，用大量的储蓄资产来保证cUSD的价格稳定。同样的，Celo也主打移动支付，能支持用手机号来给对方发送资产，并且还具有EVM兼容性的特点。</p>
+<h2 id="polkadot--跨链届的翘楚">Polkadot / 跨链届的翘楚</h2>
+<p>Polkadot是区块链世界里的一个老项目了，它的创始人是Gavin Wood，是以太坊的创始人之一。Polkadot估计很多人都了解，我就简单描述一下。</p>
+<p>Polkadot想打造一个中继链，用于连接各大公链，有跨链的那种意味了。但是能连上Polkadot的项目接口是有限的，需要用拍卖的方式进行竞价，这就是我们常看到的「插槽拍卖」，而拍卖所需的资产就是其原生代币dot。简单来说，就是竞价高者可以拥有插槽的使用权，并且需要质押你用于拍卖的dot，这就会让dot的需求和价值有所提高。通常，项目方是很难单独拿出用于拍卖的dot的，这时候众筹就是一个很好的方式。</p>
+<p>提到的Polkadot就会说一嘴Kusama，Kusama是Polkadot的先行版，有点类似beta链，一些项目会先在Kusama上先进行测试和上线，等技术稳定后再会去竞拍Polkadot上的插槽。</p>
+<h2 id="cosmos--区块链的互联网">Cosmos / 区块链的互联网</h2>
+<p>如果说Polkadot是跨链届的IOS系统，那么Cosmos就是跨链届的Android系统。Cosmos公链最大的贡献就是精简了区块链应用的开发流程，通过丰富的SDK和Tendermint引擎让开发人员专注于应用本身，而不用过多关注底层的协议，值得一提的是Terra就是基于Cosmos进行开发的，就像安卓系统一样，各大厂商都基于同一套开源代码开发出各种UI系统，而区块链中也有很多的项目方依托Cosmos开发自己的链。</p>
+<p>Cosmos的另一大特点就是跨链，每个人都可以基于Cosmos开发相应的区块链，同时如果想要进行相应的跨链交易时，则可以通过Cosmos 的枢纽「Hub」进行兑换交易，这时候就会需要ATOM（Cosmos的原生token）作为对应的手续费。如果把Polkadot的中继链比喻成高速公路，每一个插槽都是不同的高速入口，那么Cosmos的Hub就像一个航空机场，可以实现不同的航班的转机。</p>
+<h2 id="near--eth20的先行者">NEAR / eth2.0的先行者</h2>
+<p>坊间很多人说Near是「以太坊杀手」，但我觉得它更像是先驱版的eth2.0，因为它实现了「分片技术的PoS公链」。因此Near公链的高运行速度和低成本让它在市场上站稳了脚跟。</p>
+<p>除此之外，Near的另一大杀手级应用「Rainbow Bridge」可以直接连接以太坊，任何ERC-20的资产或者NFT都可以在两条链上快速转移。这是什么概念？也就是说，在不影响你以太坊资产的情况下，你可以直接调用Near上的Dapp，并且享有极低的gas费。从某种意义上来说，Near可以成为以太坊layer2的一个解决方案。</p>
+<p>当然目前Near还处于发展期，自身支持的应用还有限，不过很多知名的Defi应用已经开始要布置在Near上，未来拭目以待。</p>
+<h1 id="总结">总结</h1>
+<p>市面上的公链其实还有很多，比如Conflux、Tron、Bsc等，我今天描述的都是一些主流以及我感兴趣的公链项目。其实在研究公链和写这篇文章的时候，我越发觉得区块链世界的奥妙和精彩，层出不穷的创意，一个接一个的奇迹。同时我也发现，在当下愈发激励的公链竞争之下，资本成了一个很大的竞争优势，现在的市场不再是由早期社区引导的市场，公链很难靠技术先发优势吸引用户，反而是名人站台以及高回报率，才会吸引项目方和用户的加入。不过市场依旧是市场，所有关乎的无非都是「供需」，如何判断哪条公链有前景，就看未来大家对它的需求是否会增加。</p>
+<h1 id="参考">参考</h1>
+<p><a href="https://www.sohu.com/a/496112084_100217347#:~:text=%E5%9C%A8%E6%88%91%E4%BB%AC%E4%BA%86%E8%A7%A3%E4%BB%A5%E5%A4%AA%E5%9D%8A,%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E4%B8%80%E4%B8%AA%E6%A6%82%E5%BF%B5%E3%80%82">https://www.sohu.com/a/496112084_100217347#:~:text=%E5%9C%A8%E6%88%91%E4%BB%AC%E4%BA%86%E8%A7%A3%E4%BB%A5%E5%A4%AA%E5%9D%8A,%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E4%B8%80%E4%B8%AA%E6%A6%82%E5%BF%B5%E3%80%82</a></p><ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="" >
+    &copy;  Unclefish 2022 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    <a href="https://twitter.com/GoHugoIO" target="_blank" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
