@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Unclefish</title>
-    <link>/tags/</link>
+    <link>https://unclefish-yushu.github.io/tags/</link>
     <description>Recent content in Tags on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unclefish-yushu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>daily</title>
-      <link>/tags/daily/</link>
+      <link>https://unclefish-yushu.github.io/tags/daily/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/daily/</guid>
+      <guid>https://unclefish-yushu.github.io/tags/daily/</guid>
       <description></description>
     </item>
     
     <item>
       <title>luna</title>
-      <link>/tags/luna/</link>
+      <link>https://unclefish-yushu.github.io/tags/luna/</link>
       <pubDate>Thu, 14 Apr 2022 11:25:05 -0400</pubDate>
       
-      <guid>/tags/luna/</guid>
+      <guid>https://unclefish-yushu.github.io/tags/luna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>交易所</title>
-      <link>/tags/%E4%BA%A4%E6%98%93%E6%89%80/</link>
+      <link>https://unclefish-yushu.github.io/tags/%E4%BA%A4%E6%98%93%E6%89%80/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/%E4%BA%A4%E6%98%93%E6%89%80/</guid>
+      <guid>https://unclefish-yushu.github.io/tags/%E4%BA%A4%E6%98%93%E6%89%80/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scene</title>
-      <link>/tags/scene/</link>
+      <link>https://unclefish-yushu.github.io/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>/tags/scene/</guid>
+      <guid>https://unclefish-yushu.github.io/tags/scene/</guid>
       <description></description>
     </item>
     
