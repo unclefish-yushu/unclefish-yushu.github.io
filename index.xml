@@ -6,7 +6,16 @@
     <description>Recent content in Unclefish’s Blog on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Thu, 14 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>端午节安康</title>
+      <link>/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</guid>
+      <description>今天是端午节，祝大家端午安康，鱼叔的博客网站也正式上线了，希望之后能更加顺利。</description>
+    </item>
+    
     <item>
       <title>「Too big to fall」- UST脱锚(1)</title>
       <link>/post/ust%E8%84%B1%E9%94%9A/</link>
@@ -54,6 +63,25 @@
     </item>
     
     <item>
+      <title>知名的交易所集合</title>
+      <link>/tool/%E4%BA%A4%E6%98%93%E6%89%80/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tool/%E4%BA%A4%E6%98%93%E6%89%80/</guid>
+      <description>&lt;p&gt;以下交易所链接都属于节点内推链接，可以使用户降低手续费。&lt;/p&gt;
+&lt;p&gt;Tips，如果想知道某个代币在哪个平台可以买到，可以通过&lt;a href=&#34;https://www.coingecko.com/&#34;&gt;Coingecko&lt;/a&gt;去查询币种，下拉到下方会显示对应的交易平台，下图是以avax 为例子。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【攻略】 如何提币到不同的交易所</title>
+      <link>/tool/%E6%8F%90%E5%B8%81%E6%94%BB%E7%95%A5/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tool/%E6%8F%90%E5%B8%81%E6%94%BB%E7%95%A5/</guid>
+      <description>&lt;p&gt;hello, 大家好，我是鱼叔，今天聊聊如何提币到不同的交易所。鉴于最近很多交易所都开始自保，清退大陆用户，很多小伙伴表示担心币不卖掉就会丢掉，首先明确一点，交易所不会无缘无故把你的币给吞了，火币上的声明也表示即使到了时间，也不会限制你的提币操作，但是限制你的交易，也就是说你把币一直放在火币也没事，只是不能卖了，那如何提币进行交易呢？一般分成两种方式：提币到另一个交易所进行交易，或者提币到钱包通过DEFI进行交易。我会分别进行讲解。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Chapter V: Quasimodo</title>
       <link>/post/chapter-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
@@ -93,32 +121,12 @@ to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to wor
     
     <item>
       <title>Chapter I: The Grand Hall</title>
-      <link>/daily/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>/daily/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
       <link>/post/chapter-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>/post/chapter-1/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>/tool/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>/tool/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
     </item>
     
@@ -138,7 +146,8 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+      <description>&amp;ldquo;很高兴认识你&amp;rdquo;
+欢迎通过下面的方式与我取得联系，记得填写正确你的邮箱和名字。
 Your Name Email Address An email address is required.  Message   </description>
     </item>
     

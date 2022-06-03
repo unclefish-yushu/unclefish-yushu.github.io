@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daily on Unclefish</title>
-    <link>/daily/</link>
-    <description>Recent content in Daily on Unclefish</description>
+    <title>daily on Unclefish</title>
+    <link>/tags/daily/</link>
+    <description>Recent content in daily on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/daily/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>端午节安康</title>
       <link>/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</link>
