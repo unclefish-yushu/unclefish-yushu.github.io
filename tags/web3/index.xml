@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web3 on Unclefish</title>
+    <link>https://unclefish-yushu.github.io/tags/web3/</link>
+    <description>Recent content in web3 on Unclefish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ch-ZN</language>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unclefish-yushu.github.io/tags/web3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从web2进入web3我们需要考虑哪些东西</title>
+      <link>https://unclefish-yushu.github.io/post/web2%E8%BF%9B%E5%85%A5web3/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://unclefish-yushu.github.io/post/web2%E8%BF%9B%E5%85%A5web3/</guid>
+      <description>&lt;p&gt;hello, 大家好，我是鱼叔，今天想和大家再聊一聊web3这个话题，由于最近我体验了不少web3项目，突然发现其实这个生态已经初步形成，但是从用户体验上和web2还是有所差距，本文主要是阐述我对web3发展的看法和相关建议。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>四月之申 - 从去中心化角度探讨web3存在的价值</title>
+      <link>https://unclefish-yushu.github.io/post/%E4%BB%8E%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E8%A7%92%E5%BA%A6%E6%8E%A2%E8%AE%A8web3%E5%AD%98%E5%9C%A8%E7%9A%84%E4%BB%B7%E5%80%BC/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://unclefish-yushu.github.io/post/%E4%BB%8E%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E8%A7%92%E5%BA%A6%E6%8E%A2%E8%AE%A8web3%E5%AD%98%E5%9C%A8%E7%9A%84%E4%BB%B7%E5%80%BC/</guid>
+      <description>&lt;p&gt;hello，大家好，我是鱼叔，这篇文章可能会有点敏感，也可能会遭遇404，作为一个区块链项目研究的乎主，我还是想就上海的一些事发表自己的感受。&lt;/p&gt;
+&lt;p&gt;为了避免太多被和谐，我这里会用一些词汇代替。SH、April Sound（四月之声）&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
