@@ -7,6 +7,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>/daily/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -23,6 +28,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/post/ust%E8%84%B1%E9%94%9A/</loc>
+    <lastmod>2022-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/post/</loc>
     <lastmod>2022-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -49,6 +59,11 @@
   </url><url>
     <loc>/post/%E7%A8%B3%E5%AE%9A%E5%B8%81%E9%83%BD%E6%98%AF%E5%9D%91/</loc>
     <lastmod>2022-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/tool/</loc>
+    <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -94,21 +109,6 @@
   </url><url>
     <loc>/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/daily/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/tool/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
