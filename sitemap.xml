@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unclefish-yushu.github.io/post/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://unclefish-yushu.github.io/tool/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://unclefish-yushu.github.io/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://unclefish-yushu.github.io/post/%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -44,11 +54,6 @@
   </url><url>
     <loc>https://unclefish-yushu.github.io/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</loc>
     <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://unclefish-yushu.github.io/post/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
