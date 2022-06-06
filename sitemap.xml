@@ -22,17 +22,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://unclefish-yushu.github.io/tags/tool/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://unclefish-yushu.github.io/tool/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://unclefish-yushu.github.io/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://unclefish-yushu.github.io/post/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+    <loc>https://unclefish-yushu.github.io/tool/%E5%A5%BD%E7%94%A8%E7%9A%84%E6%A2%AF%E5%AD%90/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://unclefish-yushu.github.io/tool/</loc>
+    <loc>https://unclefish-yushu.github.io/post/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
