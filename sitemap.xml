@@ -2,17 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://unclefish-yushu.github.io/daily/0606/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://unclefish-yushu.github.io/tags/daily/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://unclefish-yushu.github.io/daily/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://unclefish-yushu.github.io/tags/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://unclefish-yushu.github.io/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://unclefish-yushu.github.io/post/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://unclefish-yushu.github.io/tool/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://unclefish-yushu.github.io/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -28,21 +48,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://unclefish-yushu.github.io/daily/0604/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://unclefish-yushu.github.io/tags/daily/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://unclefish-yushu.github.io/daily/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://unclefish-yushu.github.io/tags/</loc>
     <lastmod>2022-06-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
