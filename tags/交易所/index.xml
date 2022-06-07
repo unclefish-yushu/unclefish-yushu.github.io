@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>交易所 on Unclefish</title>
-    <link>https://unclefish-yushu.github.io/tags/%E4%BA%A4%E6%98%93%E6%89%80/</link>
+    <link>https://unclefish.link/tags/%E4%BA%A4%E6%98%93%E6%89%80/</link>
     <description>Recent content in 交易所 on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unclefish-yushu.github.io/tags/%E4%BA%A4%E6%98%93%E6%89%80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unclefish.link/tags/%E4%BA%A4%E6%98%93%E6%89%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>知名的交易所集合</title>
-      <link>https://unclefish-yushu.github.io/tool/%E4%BA%A4%E6%98%93%E6%89%80/</link>
+      <link>https://unclefish.link/tool/%E4%BA%A4%E6%98%93%E6%89%80/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://unclefish-yushu.github.io/tool/%E4%BA%A4%E6%98%93%E6%89%80/</guid>
+      <guid>https://unclefish.link/tool/%E4%BA%A4%E6%98%93%E6%89%80/</guid>
       <description>&lt;p&gt;以下交易所链接都属于节点内推链接，可以使用户降低手续费。&lt;/p&gt;
 &lt;p&gt;Tips，如果想知道某个代币在哪个平台可以买到，可以通过&lt;a href=&#34;https://www.coingecko.com/&#34;&gt;Coingecko&lt;/a&gt;去查询币种，下拉到下方会显示对应的交易平台，下图是以avax 为例子。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>【攻略】 如何提币到不同的交易所</title>
-      <link>https://unclefish-yushu.github.io/tool/%E6%8F%90%E5%B8%81%E6%94%BB%E7%95%A5/</link>
+      <link>https://unclefish.link/tool/%E6%8F%90%E5%B8%81%E6%94%BB%E7%95%A5/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://unclefish-yushu.github.io/tool/%E6%8F%90%E5%B8%81%E6%94%BB%E7%95%A5/</guid>
+      <guid>https://unclefish.link/tool/%E6%8F%90%E5%B8%81%E6%94%BB%E7%95%A5/</guid>
       <description>&lt;p&gt;hello, 大家好，我是鱼叔，今天聊聊如何提币到不同的交易所。鉴于最近很多交易所都开始自保，清退大陆用户，很多小伙伴表示担心币不卖掉就会丢掉，首先明确一点，交易所不会无缘无故把你的币给吞了，火币上的声明也表示即使到了时间，也不会限制你的提币操作，但是限制你的交易，也就是说你把币一直放在火币也没事，只是不能卖了，那如何提币进行交易呢？一般分成两种方式：提币到另一个交易所进行交易，或者提币到钱包通过DEFI进行交易。我会分别进行讲解。&lt;/p&gt;</description>
     </item>
     

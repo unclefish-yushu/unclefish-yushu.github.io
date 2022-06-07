@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>daily on Unclefish</title>
-    <link>https://unclefish-yushu.github.io/tags/daily/</link>
+    <link>https://unclefish.link/tags/daily/</link>
     <description>Recent content in daily on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unclefish-yushu.github.io/tags/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://unclefish.link/tags/daily/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>06-06 web3 暗流涌动</title>
-      <link>https://unclefish-yushu.github.io/daily/0606/</link>
+      <link>https://unclefish.link/daily/0606/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://unclefish-yushu.github.io/daily/0606/</guid>
+      <guid>https://unclefish.link/daily/0606/</guid>
       <description>最近各种信息趋势会发现web3的热潮开始了，从rss3再到各种web3招聘帖，可见一种暗流正在涌动。</description>
     </item>
     
     <item>
       <title>06-04 OP未来是否可以一帆风顺</title>
-      <link>https://unclefish-yushu.github.io/daily/0604/</link>
+      <link>https://unclefish.link/daily/0604/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://unclefish-yushu.github.io/daily/0604/</guid>
+      <guid>https://unclefish.link/daily/0604/</guid>
       <description>最近很火的一件事是Optimism 发币了，但是市场对它的预期并没有那么强烈，原因在于只是作为治理token往往会得不到好的发展，毕竟资本是逐</description>
     </item>
     
     <item>
       <title>端午节安康</title>
-      <link>https://unclefish-yushu.github.io/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</link>
+      <link>https://unclefish.link/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://unclefish-yushu.github.io/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</guid>
+      <guid>https://unclefish.link/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</guid>
       <description>今天是端午节，祝大家端午安康，鱼叔的博客网站也正式上线了，希望之后能更加顺利。</description>
     </item>
     
