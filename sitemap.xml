@@ -17,6 +17,11 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.unclefish.link/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.unclefish.link/tags/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -28,11 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tool/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -127,6 +127,11 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.unclefish.link/post/terra-%E6%98%AF%E5%A6%82%E4%BD%95%E5%B8%83%E7%BD%AE%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%B1%80/</loc>
+    <lastmod>2022-04-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.unclefish.link/tags/%E4%BA%A4%E6%98%93%E6%89%80/</loc>
     <lastmod>2022-04-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -137,8 +142,33 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.unclefish.link/post/layerzero/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/ohm/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/%E7%AE%97%E7%A8%B3/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/%E8%B7%A8%E9%93%BE/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.unclefish.link/tool/%E6%8F%90%E5%B8%81%E6%94%BB%E7%95%A5/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/celestia/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
