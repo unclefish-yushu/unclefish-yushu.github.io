@@ -209,9 +209,5 @@
     <loc>https://www.unclefish.link/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/contact/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
