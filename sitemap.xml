@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.unclefish.link/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/%E4%BB%B7%E5%80%BC%E5%88%A4%E6%96%AD/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/reprint/%E9%A1%B9%E7%9B%AE%E4%BB%B7%E5%80%BC%E5%88%A4%E6%96%AD/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/reprint/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.unclefish.link/daily/0606/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -12,27 +37,7 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/daily/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/tags/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.unclefish.link/tags/tool/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/tool/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -42,8 +47,13 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/post/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+    <loc>https://www.unclefish.link/daily/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tool/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -53,6 +63,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tool/%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -187,11 +202,11 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/about/</loc>
+    <loc>https://www.unclefish.link/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/categories/</loc>
+    <loc>https://www.unclefish.link/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
