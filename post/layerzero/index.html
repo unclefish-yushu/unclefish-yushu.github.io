@@ -240,24 +240,24 @@
 <hr>
 <h2 id="layer-zero-是什么">Layer Zero 是什么</h2>
 <p>layerzero 是一个专注于做layer0层的信息交互系统，当我研究这个项目的时候，我就发现这简直就是一个通用版的IBC协议。总所周知，基于Cosmos hub开发的项目可以和同样基于此开发的项目实现无缝跨链沟通，比如Terra的UST和Luna可以很方便的转入Osmosis里进行交易，其靠的就是IBC，实现不同链之间的信息交互。</p>
-<h4 id="ibc-功能简介">IBC 功能简介</h4>
+<h3 id="ibc-功能简介">IBC 功能简介</h3>
 <p>在Cosmos生态里，A链要将资产发到B链时，它会先向Cosmos Hub发起申请，然后Cosmos hub会基于此给B发起申请，当B响应后，一条通信链就此产生了。用一个通俗的比喻就是，你想打电话给保险公司的Tony，你也许会打电话给公司前台，前台再帮你转接给Tony，理论上来说，你如果知道了这个保险公司前台的电话，你就可以打给这个公司里的任何一台座机。Cosmos就是基于此形成了一个巨大的跨链生态，不过要注意的是这里的IBC是一个协议，而不是任何一层，也不是公链。</p>
-<h4 id="cosmos里的跨链经济">Cosmos里的跨链经济</h4>
+<h3 id="cosmos里的跨链经济">Cosmos里的跨链经济</h3>
 <p>当你能实现和另一个公链通信时，那token跨链是如何实现的？A链和B链实现通信后，A链是如何将10个 A token发送到B链上？通常，A链会把「发送10 个A token」的消息通过IBC发送给B链，IBC中继器会对这个消息进行验证，并把验证结果发给B，如果B发现这个消息没有问题就会在B链上产生「10个A token」，同时反馈一个「产生消息」给A，当A收到这个消息后就会将A链上的「10个A token锁存住」，就这样，一个跨链行为就产生了。</p>
 <p>其实分析这个过程，你会发现没有真正意义上的「资产转换」，其实就是一则消息的传递，并且有第三方能证明这则消息是正确的，那么这个跨链就产生了，而IBC在其的地位就是通信和验证者。</p>
-<h4 id="cosmos跨链的便捷">Cosmos跨链的便捷</h4>
+<h3 id="cosmos跨链的便捷">Cosmos跨链的便捷</h3>
 <p>为什么说Cosmos的跨链是便捷的呢？因为基于Cosmos hub开发的公链天然就支持IBC，这让几条链之间的通信非常方便。另外，Cosmos 基于hub的开发方式可以让多条链之间不必拥有互相直连的信息路，比如说一条链要想和以太坊、BSC、Sol通信，可能它需要为每一条链搭建一个通信协议，这其实是不高效的，伴随着公链数量增加，这样的通信可能会成为指数级增加。然而，在cosmos里，只需要支持和Cosmos hub通信，你就可以和其他数以万计的链实现通信，这就是「中继通信」带来的魅力。</p>
 <p>当然，在如此便捷之下，风险也很大。V神就指出，Cosmos各链关系非常紧密，如果一条链被攻击可能会导致多条链受影响。</p>
-<h4 id="layerzero-和-ibc-的异同">LayerZero 和 IBC 的异同</h4>
+<h3 id="layerzero-和-ibc-的异同">LayerZero 和 IBC 的异同</h3>
 <p>LayerZero 和IBC最大的相同处是两者都属于协议层，并且都是一种通信协议，也就是说它们都不是公链。不同之处在于，IBC的中继只有一个也就是Cosmos hub，同时，IBC目前只支持Cosmos生态，而LayerZero的中继分成了两部分，Oracle和Relayer，并且LayerZero可以支持很多生态。换句话说，LayerZero可以理解为IBC的通用版。</p>
-<h4 id="layer-zero-双层中继的设计">Layer Zero 双层中继的设计</h4>
+<h3 id="layer-zero-双层中继的设计">Layer Zero 双层中继的设计</h3>
 <p>LayerZero将自己的中继分成了两部分，Oracle（预言机）和Relayer（验证器）。Oracle负责传输信息，Relayer负责传输验证结果，然后收端会同时接收到这两个信息，并且进行验证，只要Oracle和Relayer的信息匹配后，这则消息的准确性才能保证，这一点就是LayerZero的创新之处，在传统的Oracle外多加了一个安全层。</p>
-<h4 id="layer-zero-的可能使用情况">Layer Zero 的可能使用情况</h4>
+<h3 id="layer-zero-的可能使用情况">Layer Zero 的可能使用情况</h3>
 <p>作为消息传递的通信协议，在保证了消息的正确性后，那么潜力就是无限的。比如一个状态共享的例子，这个例子在很多文章都有引用。Sushi是目前以太坊上的第二大DEX，存在于12条链里，并且每个链上都是一个独立代码，如果其他11条链想同步以太坊上Sushi的状态，它们可能会通过Rainbow、Polygon Network、Avalanche等进行桥接，这就会引申出11套代码，这是非常不高效的，如果使用LayerZero，则只需要一套接口，你就可以获取其他链的状态，这其实就是Cosmos Hub的理念。</p>
 <h2 id="stargate-是什么">Stargate 是什么</h2>
 <p>了解完LayerZero，我们再来看一个项目Stargate，可能不少朋友已经知晓这个项目，不过可惜的是它上线的时候刚好和APE、GMT重叠了，热度直接被后两个项目给盖过了。</p>
 <p>Stargate，是基于LayerZero开发的跨链DEX项目，也是LayerZero Lab自己推出的项目，目前已经支持Ethereum、Avalanche、BSC、Polygon、Fantom、Arbitrum、Optimism的稳定币跨链。</p>
-<h4 id="stargate工作原理">Stargate工作原理</h4>
+<h3 id="stargate工作原理">Stargate工作原理</h3>
 <p>Stargate 基于layerzero实现多条链之间的资产转移，同时它采用的是swap pool的方式来进行资产划转。举个例子，Andy 想从BSC中将1000 BUSD转移到Optimism上的1000 USDC，Stargate是如何实现的呢？它会先选择一个「BUSD（BSC）- USDC（OPT）」池子，在池子的BSC里存入1000BUSD，然后发出一个信息给Optimism链上，经过验证无误后，池子的Optimism链会划转1000USDC给对应的账户。</p>
 <p>这种基于Pool的Swap跨链方式相比于「跨链衍生品」会更加安全，因为你收到的就是USDC，而不是一种资产映射，比如「sETH」或者「cETH」之类的。但是，这种跨链交易方式会非常依赖于池子的流动性，如果存在大家都想往一条链上转移资产就会导致交易池子脱锚。</p>
 <p>为了解决这个问题，Stargate通过首次发行来募集资金提供交易流动性，并且用高APR来吸引资金流入，至少就DefiLlama的数据，Stargate上线后TVL已经从14.3亿美金到现在40亿美金，这是相当惊人的增长速度和锁存量。此外，为了避免高滑点，Stargate还会对那些大型交易增收手续费来弥补池子流动性，也就是说这是一个对散户友好的项目。至少，我利用Stargate将资产转移到optimism，比从以太坊主网转移要省不少手续费，而且非常便捷。</p>
@@ -275,12 +275,43 @@
       </div>
     </div>
 
-    <aside class="w-30-l mt6-l">
+    <aside class="w-30-l mt6-l" style="top:400px"><div class="bg-light-gray pa3  nested-copy-line-height nested-links" >
+    <p class="f5 b mb3">Table of Content</p>
+      
+      
+    
+    
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#layer-zero-是什么">Layer Zero 是什么</a>
+      <ul>
+        <li><a href="#ibc-功能简介">IBC 功能简介</a></li>
+        <li><a href="#cosmos里的跨链经济">Cosmos里的跨链经济</a></li>
+        <li><a href="#cosmos跨链的便捷">Cosmos跨链的便捷</a></li>
+        <li><a href="#layerzero-和-ibc-的异同">LayerZero 和 IBC 的异同</a></li>
+        <li><a href="#layer-zero-双层中继的设计">Layer Zero 双层中继的设计</a></li>
+        <li><a href="#layer-zero-的可能使用情况">Layer Zero 的可能使用情况</a></li>
+      </ul>
+    </li>
+    <li><a href="#stargate-是什么">Stargate 是什么</a>
+      <ul>
+        <li><a href="#stargate工作原理">Stargate工作原理</a></li>
+        <li><a href="#stargate-的风险">Stargate 的风险</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    
+      
+  </div>
 
 
 
 
 </aside>
+    <div style="position: fixed; right:5px;max-width:300px; overflow:auto; top: 100px; width: 10vw; bottom:50px" class="w-30-l mt">
+    
+    </div>
 
   </article>
 
