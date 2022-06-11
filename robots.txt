@@ -3,3 +3,4 @@ Disallow: /
 
 User-agent: Googlebot
 Allow: /
+Sitemap: https://unclefish.link/sitemap.xml 
