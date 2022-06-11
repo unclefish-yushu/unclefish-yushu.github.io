@@ -7,6 +7,11 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.unclefish.link/post/wp-06week1/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.unclefish.link/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -27,6 +32,21 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.unclefish.link/post/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tool/%E6%9C%9F%E6%9D%83%E4%B8%80/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tool/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.unclefish.link/daily/0609/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -38,11 +58,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/post/%E9%A1%B9%E7%9B%AE%E4%BB%B7%E5%80%BC%E5%88%A4%E6%96%AD/</loc>
-    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/post/</loc>
     <lastmod>2022-06-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -63,11 +78,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tool/%E5%A5%BD%E7%94%A8%E7%9A%84%E6%A2%AF%E5%AD%90/</loc>
-    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/tool/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

@@ -6,7 +6,16 @@
     <description>Recent content in 财富 on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>期权量化模型（1）- 基础篇</title>
+      <link>https://www.unclefish.link/tool/%E6%9C%9F%E6%9D%83%E4%B8%80/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unclefish.link/tool/%E6%9C%9F%E6%9D%83%E4%B8%80/</guid>
+      <description>hello，大家好，我是鱼叔，前一段时间对OKX的期权功能很感兴趣，建立了一套基础量化模型。本文是对期权组合基于python建立的量化模型分</description>
+    </item>
+    
     <item>
       <title>好用的梯子 - 天路云</title>
       <link>https://www.unclefish.link/tool/%E5%A5%BD%E7%94%A8%E7%9A%84%E6%A2%AF%E5%AD%90/</link>
