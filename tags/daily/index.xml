@@ -6,7 +6,11 @@
     <description>Recent content in daily on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/tags/daily/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.unclefish.link/tags/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>06-09 op诸事不顺</title>
       <link>https://www.unclefish.link/daily/0609/</link>
