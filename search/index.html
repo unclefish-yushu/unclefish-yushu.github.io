@@ -1,0 +1,24 @@
+<section>
+  <div>
+    <form action="https://www.unclefish.link/search">
+      <input id="search-query" name="s"/>
+    </form>
+    <div id="search-results">
+     <h3>输入你想要了解的内容，比如nft、web3或者公链</h3>
+     <h3><a href="https://unclefish.link">返回网站</a></h3>
+
+    </div>
+  </div>
+</section>
+<script id="search-result-template" type="text/x-js-template">
+  <div id="summary-${key}">
+    <h4><a href="${link}">${title}</a></h4>
+    <p>${snippet}</p>
+    ${ isset tags }<p>Tags: ${tags}</p>${ end }
+    ${ isset categories }<p>Categories: ${categories}</p>${ end }
+  </div>
+</script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="https://www.unclefish.link/js/search.js"></script>
