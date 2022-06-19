@@ -6,7 +6,16 @@
     <description>Recent content in Let&#39;s Blockchain on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>期权量化模型（2）- 案例分析篇</title>
+      <link>https://www.unclefish.link/post/%E6%9C%9F%E6%9D%83%E4%BA%8C/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unclefish.link/post/%E6%9C%9F%E6%9D%83%E4%BA%8C/</guid>
+      <description>hello，大家好，我是鱼叔，今天我就上一次的期权组合案例进行分析，看一下在当下如此惨淡的市场里，期权是如何保证收益的。 投资策略简介 我在之前</description>
+    </item>
+    
     <item>
       <title>区块链周报 (6/12 - 6/18)</title>
       <link>https://www.unclefish.link/daily/wp-06week2/</link>

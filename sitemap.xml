@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.unclefish.link/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tags/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/%E6%9C%9F%E6%9D%83/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/%E6%9C%9F%E6%9D%83%E4%BA%8C/</loc>
+    <lastmod>2022-06-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,11 +43,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/daily/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/post/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
