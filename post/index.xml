@@ -6,7 +6,20 @@
     <description>Recent content in 文章 on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.unclefish.link/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>区块链周报 (6/19 - 6/25)</title>
+      <link>https://www.unclefish.link/post/wp-06week3/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unclefish.link/post/wp-06week3/</guid>
+      <description>鱼叔的区块链周报，带给你一周的信息总结。 时间： 6.12 - 6.18 本周一句话概览：市场有所回暖，但清算依旧持续 本周大事件 MIM 宣布自己的财库足够弥补坏账，具体</description>
+    </item>
+    
     <item>
       <title>熊市之下，我是如何通过期权组合保持收益的</title>
       <link>https://www.unclefish.link/post/%E6%9C%9F%E6%9D%83%E4%BA%8C/</link>
