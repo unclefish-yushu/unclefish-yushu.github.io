@@ -497,6 +497,12 @@
   </url>
   
   <url>
+    <loc>https://www.unclefish.link/consult/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.unclefish.link/search/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
