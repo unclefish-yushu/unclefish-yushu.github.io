@@ -5,11 +5,7 @@
     <link>https://www.unclefish.link/search/</link>
     <description>Recent content in 搜索 on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ch-ZN</language>
-    
-	<atom:link href="https://www.unclefish.link/search/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ch-ZN</language><atom:link href="https://www.unclefish.link/search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search Results</title>
       <link>https://www.unclefish.link/search/search/</link>
