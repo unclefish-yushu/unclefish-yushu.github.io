@@ -27,22 +27,27 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.unclefish.link/tags/%E5%93%B2%E6%80%9D/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/read/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/read/</loc>
+    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.unclefish.link/post/wp-06week4/</loc>
     <lastmod>2022-07-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/read/%E4%B8%80%E7%99%BE%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%8D%81%E5%B9%B4/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/tags/%E5%93%B2%E6%80%9D/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/read/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
