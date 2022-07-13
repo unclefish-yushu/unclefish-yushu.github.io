@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.unclefish.link/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tags/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/%E5%93%B2%E6%80%9D/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/read/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/read/%E9%AB%98%E6%95%88%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E4%B8%AA%E4%B9%A0%E6%83%AF/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,17 +42,7 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/tags/%E5%93%B2%E6%80%9D/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.unclefish.link/read/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/read/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
