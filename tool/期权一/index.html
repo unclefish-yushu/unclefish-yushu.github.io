@@ -16,7 +16,7 @@
     <title>期权量化模型（1）- 基础篇 | Unclefish</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="“一个实用的期权组合工具“">
-    <meta name="generator" content="Hugo 0.68.3" />
+    <meta name="generator" content="Hugo 0.101.0" />
     
     
     
@@ -43,17 +43,14 @@
     <meta property="og:title" content="期权量化模型（1）- 基础篇" />
 <meta property="og:description" content="“一个实用的期权组合工具“" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.unclefish.link/tool/%E6%9C%9F%E6%9D%83%E4%B8%80/" />
+<meta property="og:url" content="https://www.unclefish.link/tool/%E6%9C%9F%E6%9D%83%E4%B8%80/" /><meta property="article:section" content="tool" />
 <meta property="article:published_time" content="2022-06-11T00:00:00+00:00" />
 <meta property="article:modified_time" content="2022-06-11T00:00:00+00:00" /><meta property="og:site_name" content="Unclefish" />
+
 <meta itemprop="name" content="期权量化模型（1）- 基础篇">
-<meta itemprop="description" content="“一个实用的期权组合工具“">
-<meta itemprop="datePublished" content="2022-06-11T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2022-06-11T00:00:00&#43;00:00" />
+<meta itemprop="description" content="“一个实用的期权组合工具“"><meta itemprop="datePublished" content="2022-06-11T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-06-11T00:00:00+00:00" />
 <meta itemprop="wordCount" content="772">
-
-
-
 <meta itemprop="keywords" content="期权," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="期权量化模型（1）- 基础篇"/>
 <meta name="twitter:description" content="“一个实用的期权组合工具“"/>
@@ -253,15 +250,15 @@
 <h2 id="3--代码回测案例分析">3.  代码回测案例分析</h2>
 <p>假设0624到期的BTC期权，买入一个24000执行价的看涨期权，期权费为8379，再买入一个执行卖出价为32000的看跌期权，期权费为2080。</p>
 <p>函数调用情况为：</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">if</span> __name__ <span style="color:#f92672">==</span> <span style="color:#e6db74">&#39;__main__&#39;</span>:
-
-    bull_or_bear <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;bull&#39;</span>, <span style="color:#e6db74">&#39;bull&#39;</span>]
-    buy_or_sell  <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;buy&#39;</span>, <span style="color:#e6db74">&#39;sell&#39;</span>]
-    op <span style="color:#f92672">=</span> [<span style="color:#ae81ff">8379</span>, <span style="color:#ae81ff">2080</span>]
-    ep <span style="color:#f92672">=</span> [<span style="color:#ae81ff">24000</span>, <span style="color:#ae81ff">32000</span>]
-
-    option_func_comb(bull_or_bear,buy_or_sell,<span style="color:#ae81ff">2</span>,op,ep)
-</code></pre></div><p>输出组合图为：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">if</span> __name__ <span style="color:#f92672">==</span> <span style="color:#e6db74">&#39;__main__&#39;</span>:
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    bull_or_bear <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;bull&#39;</span>, <span style="color:#e6db74">&#39;bull&#39;</span>]
+</span></span><span style="display:flex;"><span>    buy_or_sell  <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;buy&#39;</span>, <span style="color:#e6db74">&#39;sell&#39;</span>]
+</span></span><span style="display:flex;"><span>    op <span style="color:#f92672">=</span> [<span style="color:#ae81ff">8379</span>, <span style="color:#ae81ff">2080</span>]
+</span></span><span style="display:flex;"><span>    ep <span style="color:#f92672">=</span> [<span style="color:#ae81ff">24000</span>, <span style="color:#ae81ff">32000</span>]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    option_func_comb(bull_or_bear,buy_or_sell,<span style="color:#ae81ff">2</span>,op,ep)
+</span></span></code></pre></div><p>输出组合图为：</p>
 <p><img src="../../images/option5.jpg" alt="image"></p>
 <p>也就是说：</p>
 <p>当BTC价格高于34459或者低于21541时，这个组合都会赚钱，而在这个期间则会亏损，亏损最大值为2500u左右。</p>
