@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.unclefish.link/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tags/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/weekly-report/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/wp-07week3/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -17,18 +32,8 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/post/</loc>
-    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.unclefish.link/tags/%E5%B8%82%E5%9C%BA/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/tags/weekly-report/</loc>
-    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
