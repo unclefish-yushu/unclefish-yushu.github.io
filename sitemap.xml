@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.unclefish.link/</loc>
-    <lastmod>2022-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tags/</loc>
-    <lastmod>2022-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tags/weekly-report/</loc>
-    <lastmod>2022-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/post/wp08-w04/</loc>
-    <lastmod>2022-08-27T00:00:00+00:00</lastmod>
+    <loc>https://www.unclefish.link/post/wp09-w1/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/post/</loc>
+    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/wp08-w04/</loc>
     <lastmod>2022-08-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
