@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.unclefish.link/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/tags/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/%E5%90%AC%E8%AF%B4%E4%BD%A0%E6%83%B3%E5%AD%A6%E6%8A%95%E8%B5%84%E8%BF%99%E4%BA%9B%E4%B9%A6%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%88%B0%E4%BD%A0/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/tags/%E5%B8%82%E5%9C%BA/</loc>
+    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,11 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/post/wp09-w2/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/post/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -78,11 +88,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.unclefish.link/post/sol%E9%92%B1%E5%8C%85%E8%A2%AB%E7%9B%97/</loc>
-    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/tags/%E5%B8%82%E5%9C%BA/</loc>
     <lastmod>2022-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
