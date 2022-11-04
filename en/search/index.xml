@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEARCH on Unclefish</title>
+    <link>https://www.unclefish.link/en/search/</link>
+    <description>Recent content in SEARCH on Unclefish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ch-ZN</language><atom:link href="https://www.unclefish.link/en/search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search Results</title>
+      <link>https://www.unclefish.link/en/search/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unclefish.link/en/search/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

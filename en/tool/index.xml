@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TOOL on Unclefish</title>
+    <link>https://www.unclefish.link/en/tool/</link>
+    <description>Recent content in TOOL on Unclefish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ch-ZN</language>
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/en/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[付费栏目]鱼叔的咨询群</title>
+      <link>https://www.unclefish.link/en/tool/%E4%BB%98%E8%B4%B9%E6%A0%8F%E7%9B%AE/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unclefish.link/en/tool/%E4%BB%98%E8%B4%B9%E6%A0%8F%E7%9B%AE/</guid>
+      <description>hello，大家好，我是鱼叔。 21年我试运营了一个咨询群，已经满一年。期间很多朋友都有所收获，令我欣慰的是越来越的读者不再盲目跟风，知道如何</description>
+    </item>
+    
+  </channel>
+</rss>
