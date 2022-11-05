@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.unclefish.link/en/post/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,8 +17,23 @@
                 href="https://www.unclefish.link/en/post/"
                 />
   </url><url>
+    <loc>https://www.unclefish.link/en/post/wp10-w4/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/post/wp10-w4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/post/wp10-w4/"
+                />
+  </url><url>
     <loc>https://www.unclefish.link/en/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +48,7 @@
                 />
   </url><url>
     <loc>https://www.unclefish.link/en/tags/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -45,6 +60,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.unclefish.link/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/en/tags/weekly-report/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/tags/weekly-report/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/tags/weekly-report/"
                 />
   </url><url>
     <loc>https://www.unclefish.link/en/tags/web3/</loc>
