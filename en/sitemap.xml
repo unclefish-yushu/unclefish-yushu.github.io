@@ -2,6 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.unclefish.link/en/daily/11-11/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/daily/11-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/daily/11-11/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/en/tags/daily/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/tags/daily/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/tags/daily/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/en/daily/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/daily/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/daily/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/en/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/en/tags/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/tags/"
+                />
+  </url><url>
     <loc>https://www.unclefish.link/en/post/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -21,36 +96,6 @@
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/en/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/"
-                />
-  </url><url>
-    <loc>https://www.unclefish.link/en/tags/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/tags/"
-                />
   </url><url>
     <loc>https://www.unclefish.link/en/tags/weekly-report/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
@@ -95,51 +140,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.unclefish.link/en/post/%E5%BD%93%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%82%92web3.0%E6%97%B6%E6%88%91%E8%A6%81%E7%BB%99%E5%AE%83%E6%B5%87%E4%B8%AA%E5%86%B7%E6%B0%B4/"
-                />
-  </url><url>
-    <loc>https://www.unclefish.link/en/read/</loc>
-    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/read/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/read/"
-                />
-  </url><url>
-    <loc>https://www.unclefish.link/en/read/%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8/</loc>
-    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/read/%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/read/%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8/"
-                />
-  </url><url>
-    <loc>https://www.unclefish.link/en/tags/%E8%B4%A2%E7%BB%8F/</loc>
-    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/tags/%E8%B4%A2%E7%BB%8F/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/tags/%E8%B4%A2%E7%BB%8F/"
                 />
   </url><url>
     <loc>https://www.unclefish.link/en/tool/%E4%BB%98%E8%B4%B9%E6%A0%8F%E7%9B%AE/</loc>

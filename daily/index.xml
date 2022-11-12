@@ -1,68 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>市场 on Unclefish</title>
+    <title>策略 on Unclefish</title>
     <link>https://www.unclefish.link/daily/</link>
-    <description>Recent content in 市场 on Unclefish</description>
+    <description>Recent content in 策略 on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.unclefish.link/daily/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/daily/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>区块链周报 (6/12 - 6/18)</title>
-      <link>https://www.unclefish.link/daily/wp-06week2/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <title>11/11 市场观</title>
+      <link>https://www.unclefish.link/daily/11-11/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.unclefish.link/daily/wp-06week2/</guid>
-      <description>鱼叔的区块链周报，带给你一周的信息总结。 时间： 6.12 - 6.18 本周一句话概览：山雨欲来风满楼，黑云压城城欲摧 本周大事件简览 三箭资本遭遇巨大亏损，联合创</description>
-    </item>
-    
-    <item>
-      <title>区块链周报 (6/6 - 6/11)</title>
-      <link>https://www.unclefish.link/daily/wp-06week1/</link>
-      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.unclefish.link/daily/wp-06week1/</guid>
-      <description>本周重点简览 optimism 2000万代币被盗，黑客最后归还 OKX 签约里卡多作为形象代言人 BNB被美SEC调查 binance 被路透社指控洗钱 oasis 生态跨链桥EVODefi 发行</description>
-    </item>
-    
-    <item>
-      <title>06-09 op诸事不顺</title>
-      <link>https://www.unclefish.link/daily/0609/</link>
-      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.unclefish.link/daily/0609/</guid>
-      <description>最近各种layer2要准备发币了，包括一直说不发币的Arbitrum，也准备跃跃欲试，甚至有力竞争者zkSync项目都还没完全成熟，就扬言准</description>
-    </item>
-    
-    <item>
-      <title>06-06 web3 暗流涌动</title>
-      <link>https://www.unclefish.link/daily/0606/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.unclefish.link/daily/0606/</guid>
-      <description>最近各种信息趋势会发现web3的热潮开始了，从rss3再到各种web3招聘帖，可见一种暗流正在涌动。</description>
-    </item>
-    
-    <item>
-      <title>06-04 OP未来是否可以一帆风顺</title>
-      <link>https://www.unclefish.link/daily/0604/</link>
-      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.unclefish.link/daily/0604/</guid>
-      <description>最近很火的一件事是Optimism 发币了，但是市场对它的预期并没有那么强烈，原因在于只是作为治理token往往会得不到好的发展，毕竟资本是逐</description>
-    </item>
-    
-    <item>
-      <title>端午节安康</title>
-      <link>https://www.unclefish.link/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.unclefish.link/daily/%E7%AB%AF%E5%8D%88%E8%8A%82/</guid>
-      <description>今天是端午节，祝大家端午安康，鱼叔的博客网站也正式上线了，希望之后能更加顺利。</description>
+      <guid>https://www.unclefish.link/daily/11-11/</guid>
+      <description>市场观</description>
     </item>
     
   </channel>

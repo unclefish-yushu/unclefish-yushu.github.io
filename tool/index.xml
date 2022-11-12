@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>财富 on Unclefish</title>
+    <title>资源 on Unclefish</title>
     <link>https://www.unclefish.link/tool/</link>
-    <description>Recent content in 财富 on Unclefish</description>
+    <description>Recent content in 资源 on Unclefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ch-ZN</language>
-    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/tool/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.unclefish.link/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>鱼叔的网站迭代记录</title>
+      <link>https://www.unclefish.link/tool/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.unclefish.link/tool/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</guid>
+      <description>11-11 减少了读书栏目，增加了每日市场观点栏目； 读书栏目放到了资源里，会有对应的页面收藏，书籍内容也会主要以notion的方式体现； 11 - 5 增加了英</description>
+    </item>
+    
     <item>
       <title>期权量化模型（1）- 基础篇</title>
       <link>https://www.unclefish.link/tool/%E6%9C%9F%E6%9D%83%E4%B8%80/</link>
