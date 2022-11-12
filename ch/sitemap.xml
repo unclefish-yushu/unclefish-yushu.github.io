@@ -2,6 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.unclefish.link/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/tags/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/tags/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/tags/weekly-report/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/tags/weekly-report/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/tags/weekly-report/"
+                />
+  </url><url>
+    <loc>https://www.unclefish.link/post/wp11-w2/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.unclefish.link/post/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.unclefish.link/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://www.unclefish.link/post/"
+                />
+  </url><url>
     <loc>https://www.unclefish.link/daily/11-11/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -30,36 +95,6 @@
                 rel="alternate"
                 hreflang="ch"
                 href="https://www.unclefish.link/tags/daily/"
-                />
-  </url><url>
-    <loc>https://www.unclefish.link/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/"
-                />
-  </url><url>
-    <loc>https://www.unclefish.link/tags/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/tags/"
                 />
   </url><url>
     <loc>https://www.unclefish.link/daily/</loc>
@@ -102,40 +137,10 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.unclefish.link/post/</loc>
-    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/post/"
-                />
-  </url><url>
     <loc>https://www.unclefish.link/post/ftx/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.unclefish.link/tags/weekly-report/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.unclefish.link/en/tags/weekly-report/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://www.unclefish.link/tags/weekly-report/"
-                />
   </url><url>
     <loc>https://www.unclefish.link/post/wp11-01/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
